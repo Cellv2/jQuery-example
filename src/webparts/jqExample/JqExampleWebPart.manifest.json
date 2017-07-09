@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "ca3b1c1b-e5bd-413c-b107-fdb05c388769",
+  "alias": "JqExampleWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "ca3b1c1b-e5bd-413c-b107-fdb05c388769",
+    "group": { "default": "Under Development" },
+    "title": { "default": "jqExample" },
+    "description": { "default": "Example for SharePoint SE." },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "jqExample"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/jqExample/JqExampleWebPart.js",
+      "manifest": "./src/webparts/jqExample/JqExampleWebPart.manifest.json",
+      "outputPath": "./dist/jq-example.bundle.js"
+    }
+  ],
+  "externals": {
+    "jquery": "https://code.jquery.com/jquery-3.1.0.min.js"
+  },
+  "localizedResources": {
+    "jqExampleStrings": "webparts/jqExample/loc/{locale}.js"
+  }
+}

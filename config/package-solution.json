@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "jquery-example-client-side-solution",
+    "id": "1c3f929c-52a9-4060-8f91-4a8c72f4811e",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/jquery-example.sppkg"
+  }
+}

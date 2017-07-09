@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "jquery-example",
+    "framework": "none",
+    "version": "1.0.2",
+    "libraryId": "1c3f929c-52a9-4060-8f91-4a8c72f4811e"
+  }
+}
